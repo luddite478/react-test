@@ -1,0 +1,10 @@
+.DottedBox {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  background-color: white;
+}
+
+.DottedBox_content {
+  font-size: 15px;
+}
